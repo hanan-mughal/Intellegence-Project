@@ -1,0 +1,5 @@
+outs:
+- md5: c9d9551e7e07d7b9ed5d23837c7ff9aa
+  size: 11546233
+  hash: md5
+  path: activity_recognition_model_v2.pkl
